@@ -1,3 +1,4 @@
+test
 1. Clone Repo  
 2. CD to the repo directory  
 cp .env.sh.template .env 
